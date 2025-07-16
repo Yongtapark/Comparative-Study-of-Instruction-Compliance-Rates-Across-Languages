@@ -93,13 +93,13 @@ Responses were evaluated based on two criteria:
 ### 3.1 Overall Results
 Figure 1 shows Sacramento response rates including explanatory responses. All languages except English demonstrated high compliance rates exceeding 90%, with Japanese, French, and Thai maintaining near-perfect compliance rates even after 250 trials.
 
-![](all_languages_with_explanations.png)
+![](img/all_languages_with_explanations.png)
 *Figure 1. Sacramento Response Rates by Language (Including Explanatory Responses)*
 
 ### 3.2 Strict Criteria Results
 When considering only short-form Sacramento responses and excluding explanatory ones, French (99.2%) and Japanese (99.2%) showed the highest compliance rates.
 
-![](all_languages_comparison.png)
+![](img/all_languages_comparison.png)
 *Figure 2. Sacramento Response Rates by Language (Excluding Explanatory Responses)*
 
 ### 3.3 Key Findings
